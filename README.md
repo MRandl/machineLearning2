@@ -1,5 +1,5 @@
 # machineLearning2
-This repository contains the work of our team for the project 2 of the machine learning class at EPFL. It is divided in multiple notebooks detailing the different methods we used to reach our goals. 
+This repository contains the work of our team for the project 2, option B (text classification) of the machine learning class at EPFL. It is divided in multiple notebooks detailing the different methods we used to reach our goals. 
 
 ## The best model
 The notebook that is interesting for grading as it received our maximal accuracy on the AICrowd dataset is [tfidf_ridge.ipynb](tfidf_ridge.ipynb)
